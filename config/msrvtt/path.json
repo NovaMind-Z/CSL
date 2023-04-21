@@ -1,0 +1,6 @@
+{
+  "cap_root": "/path-to-data/msrvtt10k/TextData/msrvtt10k",
+  "visual_root": "/path-to-data/msrvtt10k/FeatureData/resnext101-resnet152/",
+  "word2int_file": "/path-to-data/word2int.json",
+  "output_dir": "/path-to-data/output/"
+}
